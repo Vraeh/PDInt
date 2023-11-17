@@ -36,7 +36,7 @@ Revisa `contributing.md` para ver formas en las cuales apoyar en el desarrollo d
 
 Lo único que te pedimos es que por favor te adhieras al `código de conducta` de este repositorio y que sigas las reglas de comportamiento general, esto incluye el no añadir comentarios fuera de contexto o que no aporten de ninguna forma al código escrito.
 
-## TODO
+## Roadmap
 
 - Añadir control mediante teclado (WASD)
 - Añadir control mediante joystick. (Xbox)
