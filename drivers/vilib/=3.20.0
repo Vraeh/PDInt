@@ -1,0 +1,7 @@
+Looking in indexes: https://pypi.org/simple, https://www.piwheels.org/simple
+Collecting protobuf
+  Downloading protobuf-4.25.1-cp37-abi3-manylinux2014_aarch64.whl.metadata (541 bytes)
+Downloading protobuf-4.25.1-cp37-abi3-manylinux2014_aarch64.whl (293 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 293.7/293.7 kB 842.9 kB/s eta 0:00:00
+Installing collected packages: protobuf
+Successfully installed protobuf-4.25.1
