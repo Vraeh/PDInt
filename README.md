@@ -38,7 +38,7 @@ Lo único que te pedimos es que por favor te adhieras al `código de conducta` d
 
 ## Roadmap
 
-- ~~Modificar driver vilib para su funcionamiento en arquitectura x64.~~
+- ~~Modificar driver vilib para su funcionamiento en arquitectura x64.~~ _Encontrar una mejor solución para ello._
 - Añadir control mediante teclado (WASD)
 - Añadir control mediante joystick. (Xbox)
 - Añadir detección de emociones mediante gestos faciales.
